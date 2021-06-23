@@ -44,15 +44,3 @@ for x in range(20):
   promedio = sumatoria/20
 
 print ("\n El promedio de apuestas final es: ", promedio,"\n")
-
-
-
-#Falta el tiempo
-
-
-
-
-  
-
-  
-
